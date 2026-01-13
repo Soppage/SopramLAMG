@@ -1,2 +1,10 @@
 # SopramLAMG
-SopramLAMG calculator using the Stankler Folly Formula for LAMG.
+Welcome to The Sopram for the Stankler Folly Formula!
+This Sopram will calculate the outcome of any battle, given the army statstics, for LAMG.
+To use it, follow the instructions, and record the result! 
+You may continue with multiple battles at the end.
+
+The program automatically saves the results of battles you put in, so you dont need to worry if you didn't record it then and there.
+Have any suggestions? Let me know! 
+
+Discord: @.sop.
